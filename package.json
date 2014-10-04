@@ -1,6 +1,6 @@
 {
   "name": "hubot-endless8",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A Hubot script that counts your message like the endless 8",
   "main": "index.js",
   "scripts": {
