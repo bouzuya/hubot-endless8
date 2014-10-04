@@ -2,6 +2,8 @@
 
 A Hubot script that counts your messages like [the endless 8](http://www.kyotoanimation.co.jp/haruhi/katsudou/katsudou18.html)
 
+![](http://img.f.hatena.ne.jp/images/fotolife/b/bouzuya/20141004/20141004234451.gif)
+
 ## Installation
 
     $ npm install git://github.com/bouzuya/hubot-endless8.git
